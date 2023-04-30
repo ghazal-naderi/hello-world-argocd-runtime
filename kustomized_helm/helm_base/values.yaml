@@ -5,7 +5,7 @@ namespace: hello
 hello:
   image: 
     name: 100682590469.dkr.ecr.eu-west-2.amazonaws.com/dev-container-platform
-    tag: main-0c2db21
+    tag: main-ac2c738
     pullpolicy: IfNotPresent
   container:
     port: 8080
